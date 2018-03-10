@@ -30,7 +30,7 @@ private:
 	int top;
 	char * name;
 public:
-	//Cart();
+	Cart();
 	Cart(char *);
 	void addProductToCart(Product);
 	void clearCart();
